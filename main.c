@@ -1,13 +1,10 @@
 //
-sadkjakdjaslkjdas
-
-
-
-asdSDJhadjASdlkajksjdklADlkj
 main()
 {
   int i,sum;
 
-  fork();
+  for (i=0;i<100;i++){
+    sum+=i;
+  }
   return;
 }
